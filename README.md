@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Ślepaczuk aka Deznka</h1>
-<h3 align="center">A passionate Junior from Poland</h3>
+<h3 align="center">A passionate Junior Developer from Poland</h3>
 
 - 🔭 I’m currently working on SOSZD (with my Team)
 
