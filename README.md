@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on SOSZD (with my Team)
 
-- 🌱 I’m currently learning **Laravel / backend**
+- 🌱 I’m currently learning **Laravel / React**
 
 - 💬 Ask me about **my friend conding with my team**
 
