@@ -36,7 +36,7 @@
  * @param {string} specialization - Back-end in WebApps.
  * @param {string} interests - Currenty learning to be Full Stack Developer.
  * @param {string} hobbies - Programming and Games.
- * @param {string} stength - Punctuality.
+ * @param {string} strength - Punctuality.
  * @param {string} weakness - Shyness.
  * @param {Date} birthday - 9th of January 2004.
  * @throws {Punch} To any and all bugs.
