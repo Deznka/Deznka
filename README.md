@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on DB managment application for a hat factory 🎩 (yup, I stole it from my friend)
 
-- 🌱 I’m currently learning **React,js / backend**
+- 🌱 I’m currently learning **React / backend**
 
 - 💬 Ask me about **my friend conding with my team**
 
