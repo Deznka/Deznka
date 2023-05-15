@@ -13,15 +13,15 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://media1.giphy.com/media/PAuDiTd7DLwYagLGH3/200w.gif?cid=82a1493bvsk1i1cgw0wm1sxyf4u8ftegqbofeejiy7rta1xr&ep=v1_gifs_related&rid=200w.gif&ct=s" alt="Hello">
+      <img height="200" src="https://media1.giphy.com/media/PAuDiTd7DLwYagLGH3/200w.gif?cid=82a1493bvsk1i1cgw0wm1sxyf4u8ftegqbofeejiy7rta1xr&ep=v1_gifs_related&rid=200w.gif&ct=s" alt="Hello">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A1A&center=true&width=435&lines=Hi%2C+I'm+Jan+%C5%9Alepaczuk;Aka+Deznka" alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A1A&center=true&width=435&lines=Hi%2C+I'm+Jan+%C5%9Alepaczuk;Aka+Deznka" alt="Typing SVG" />
   </div>
 </div>
 
 <details>
-<summary><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> About me</summary>
+<summary><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> About me</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
