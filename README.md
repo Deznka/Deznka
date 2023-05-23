@@ -141,7 +141,7 @@
 </div>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/jan-ślepaczuk-720674266/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jan-ślepaczuk/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:jan.slepaczuk@gmail.com?subject=Hi%20Jan,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a> 
 </div>
 
